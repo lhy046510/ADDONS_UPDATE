@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+	<addon id="plugin.audio.listenliveeu">
+	</addon>
+	<addon id="plugin.video.1channel">
+	</addon>
+	<addon id="plugin.video.concertarchive">
+	</addon>
+	<addon id="plugin.video.F.T.V">
+	</addon>
+	<addon id="plugin.video.footballreplays">
+	</addon>	
+	<addon id="plugin.video.icefilms">
+	</addon>
+	<addon id="plugin.video.iplayer">
+	</addon>
+</addons>
