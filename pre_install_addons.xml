@@ -13,5 +13,50 @@
 	<addon id="plugin.video.icefilms">
 	</addon>
 	<addon id="plugin.video.iplayer">
+	</addon>	
+	<addon id="plugin.video.itunes_podcasts">
+	</addon>
+	<addon id="plugin.video.metalvideo">
+	</addon>
+	<addon id="plugin.video.movie25">
+	</addon>
+	<addon id="plugin.video.SportsDevil">
+	</addon>
+	<addon id="plugin.video.SportsDevil">
+	</addon>
+	<addon id="plugin.video.youtube">
+	</addon>
+
+	<addon id="script.common.plugin.cache">
+	</addon>
+	<addon id="script.module.addon.common">
+	</addon>
+	<addon id="script.module.axel.downloader">
+	</addon>
+	<addon id="script.module.beautifulsoup">
+	</addon>
+	<addon id="script.module.elementtree">
+	</addon>
+	<addon id="script.module.feedparser">
+	</addon>
+	<addon id="script.module.metahandler">
+	</addon>
+	<addon id="script.module.myconnpy">
+	</addon>
+	<addon id="script.module.parsedom">
+	</addon>
+	<addon id="script.module.simple.downloader">
+	</addon>
+	<addon id="script.module.simplejson">
+	</addon>
+	<addon id="script.module.socksipy">
+	</addon>
+	<addon id="script.module.t0mm0.common">
+	</addon>
+	<addon id="script.module.urlresolver">
+	</addon>
+	<addon id="script.module.xbmcswift2">
+	</addon>
+	<addon id="script.module.xbmcutil">
 	</addon>
 </addons>
