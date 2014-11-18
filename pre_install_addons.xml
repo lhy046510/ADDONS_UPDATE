@@ -26,7 +26,8 @@
 	</addon>
 	<addon id="plugin.video.youtube">
 	</addon>
-
+	<addon id="plugin.video.4od">
+	</addon>
 	<addon id="script.common.plugin.cache">
 	</addon>
 	<addon id="script.module.addon.common">
